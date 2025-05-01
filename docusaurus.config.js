@@ -11,8 +11,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Root Game Engine Documentation',
-  tagline: 'Root Doc',
+  tagline: 'Documentation of the Root Game Engine. A Beginners-friendly game engine',
   favicon: 'img/favicon.ico',
+  projectName: "Root-Documentation",
+  organizationName: "Root",
 
   // Set the production url of your site here
   url: 'https://root-doc.pages.dev',
@@ -66,6 +68,15 @@ const config = {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Root Game Engine, Inc. Built with Docusaurus!`,
       },
+      metadata: [
+        { name: 'description', content: 'Documentation of the Root Game Engine. A Beginners-friendly game engine' },
+        { name: 'keywords', content: 'documentation, game engine, open source, easy game engine, roblox studio alternative, engines, 2d game engine, wii game engine, cross-platform game engine' },
+        { property: 'og:title', content: 'Root Game Engine Documentation' },
+        { property: 'og:description', content: 'The best game engine for beginners' },
+        { property: 'og:image', content: 'img/logo.png' },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: 'https://root-doc.pages.dev' },
+      ],
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
