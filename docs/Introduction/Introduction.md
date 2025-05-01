@@ -9,4 +9,5 @@ sidebar_position: 1
 **Supported platforms: [Here](/docs/Introduction/Supported-Platforms)**
 
 ## How does it work?
+
 The game engine works by converting each function to its platform respectively.
