@@ -74,7 +74,7 @@ const config = {
         { name: 'keywords', content: 'documentation, game engine, open source, easy game engine, roblox studio alternative, engines, 2d game engine, wii game engine, cross-platform game engine' },
         { property: 'og:title', content: 'Root Game Engine Documentation' },
         { property: 'og:description', content: 'The best game engine for beginners' },
-        { property: 'og:image', content: 'img/favicon.ico' },
+        { property: 'og:image', content: 'img/logo_optimized.png' },
         { property: 'og:type', content: 'website' },
         { property: 'og:url', content: 'https://root-doc.pages.dev' },
       ],
