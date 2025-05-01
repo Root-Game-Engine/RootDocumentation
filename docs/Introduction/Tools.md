@@ -8,3 +8,9 @@ title: "Tools"
 Builder is a tool made for creating/building new projects.
 
 [Builder](https://github.com/RiceTheDev/RootBuilder) is also open-source!
+
+## Installer
+
+The installer is a simple tool just for installing the engine/Builder
+
+Installer can be found at [```tools/installer/source```](https://github.com/RiceTheDev/Root/tree/main/tools/installer)

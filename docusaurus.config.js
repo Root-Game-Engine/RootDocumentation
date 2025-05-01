@@ -48,7 +48,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/logo.png',
+      image: 'img/logo_optimized.png',
       navbar: {
         title: 'Root Game Engine',
         logo: {
