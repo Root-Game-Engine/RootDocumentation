@@ -11,6 +11,6 @@ Builder is a tool made for creating/building new projects.
 
 ## Installer
 
-The installer is a simple tool just for installing the engine/Builder
+The installer is a simple tool just for installing the Engine/Builder
 
-Installer can be found at [```tools/installer/source```](https://github.com/RiceTheDev/Root/tree/main/tools/installer)
+Installer source code can be found at [```tools/installer/source```](https://github.com/RiceTheDev/Root/tree/main/tools/installer/source)
