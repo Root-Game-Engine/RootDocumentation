@@ -69,7 +69,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Root Game Engine, Inc. Built with Docusaurus!`,
       },
       metadata: [
-        { name: 'google-site-verification', content: 'DPGyWcu6j_2h3xhhKVT0Yx5DN_dtMONPPsE9Tn8MxW4' },
+        { name: 'google-site-verification', content: 'y8kBlJMCqCFe1PUbWNLR5i_O4p9ViMiYM1F0wr74MMM' },
         { name: 'description', content: 'Documentation of the Root Game Engine. A Beginners-friendly game engine' },
         { name: 'keywords', content: 'documentation, game engine, open source, easy game engine, roblox studio alternative, engines, 2d game engine, wii game engine, cross-platform game engine' },
         { property: 'og:title', content: 'Root Game Engine Documentation' },
