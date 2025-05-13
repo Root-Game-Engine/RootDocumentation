@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Root Game Engine Documentation',
-  tagline: 'Documentation of the Root Game Engine. A Beginners-friendly game engine',
+  tagline: 'Documentation of the Root Game Engine. A Beginner-friendly game engine',
   favicon: 'img/favicon.ico',
   projectName: "Root-Documentation",
   organizationName: "Root",
@@ -70,9 +70,9 @@ const config = {
       },
       metadata: [
         { name: 'google-site-verification', content: 'y8kBlJMCqCFe1PUbWNLR5i_O4p9ViMiYM1F0wr74MMM' },
-        { name: 'description', content: 'Documentation of the Root Game Engine. A Beginners-friendly game engine' },
+        { name: 'description', content: 'Documentation of the Root Game Engine. A Beginner-friendly game engine' },
         { name: 'keywords', content: 'documentation, game engine, open source, easy game engine, roblox studio alternative, engines, 2d game engine, wii game engine, cross-platform game engine' },
-        { property: 'og:title', content: 'Root Game Engine Documentation' },
+        { property: 'og:title', content: 'Documentation of the Root Game Engine. A Beginner-friendly game engine' },
         { property: 'og:description', content: 'The best game engine for beginners' },
         { property: 'og:image', content: 'img/logo_optimized.png' },
         { property: 'og:type', content: 'website' },
